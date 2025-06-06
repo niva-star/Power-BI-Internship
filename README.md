@@ -42,6 +42,10 @@ Transformed data types (e.g., text to date, whole number)
 
 Created a clean data model for reporting
 
+Output:
+
+![Image](https://github.com/user-attachments/assets/417753d2-4fff-4039-ac0f-13a677c0a1a3)
+
 
 ✅ Task 2: Data Integration from Multiple Sources
 
