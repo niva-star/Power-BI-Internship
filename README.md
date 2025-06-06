@@ -72,6 +72,10 @@ Handled missing keys and ensured relational accuracy
 
 Built a combined dashboard view with integrated metrics
 
+Output:
+
+![Image](https://github.com/user-attachments/assets/dc8657c2-7af1-4506-b07f-e7443a75313d)
+
 
 ✅ Task 3: Interactive Dashboards
 
@@ -96,6 +100,11 @@ Enhanced user experience using themes and tooltips
 
 Added drill-down features for deep data exploration
 
+Output:
+
+
+![Image](https://github.com/user-attachments/assets/1ca6e9b4-06c9-4a2d-97c0-9a0b3b420b91)
+
 
 ✅ Task 4: Python Integration in Power BI
 
@@ -119,3 +128,9 @@ Used pandas for advanced data manipulation
 Created visualizations using matplotlib
 
 Integrated Python visuals into Power BI reports
+
+Output:
+
+
+![Image](https://github.com/user-attachments/assets/68c07d5a-a58d-4c5c-b526-8cd8f0628203)
+
